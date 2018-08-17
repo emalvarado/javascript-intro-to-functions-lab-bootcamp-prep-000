@@ -19,7 +19,7 @@ function sayHiToGrandma(string) {
     console.log("I can't hear you!") 
     
   }
-  else if (string === string.toUpperCase) { 
+  else if (string === "HELLO") { 
     console.log("YES INDEED!") 
     
   } 
